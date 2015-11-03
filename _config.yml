@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ChaimGoldman18.github.io
+title: ChaimGoldman18
+tagline: My Favorite Bookmarks
+description: My Favorite entertainment and information bookmarks.
+paginate: 10
